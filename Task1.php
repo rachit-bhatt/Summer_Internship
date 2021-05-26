@@ -3,7 +3,7 @@
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<title>Registration Page using Table Tag - Task 1</title>
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="CSS/style.css">
 	</head>
 	<body class="dark-theme">
 		<table class="table">

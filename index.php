@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Summer Internship</title>
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="CSS/style.css">
 	</head>
 	<body class="dark-theme">
 		<table class="table">
@@ -22,6 +22,13 @@
 					<td>Create a Registration Page</td>
 					<td>HTML | CSS | PHP</td>
 					<td><a href="Task1.php">Task 1</a></td>
+				</tr>
+				<tr>
+					<td>2</td>
+					<td>Task 2</td>
+					<td>Branching Statements</td>
+					<td>PHP</td>
+					<td><a href="Task2.php">Task 2</a></td>
 				</tr>
 			</tbody>
 		</table>
