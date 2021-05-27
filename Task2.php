@@ -17,7 +17,7 @@
         <link rel="stylesheet" href="CSS/Day2.css">
     </head>
 
-    <body class="dark-theme">
+    <body class="neon-dark-theme">
 
 <?php /*
 
