@@ -55,9 +55,28 @@
 				<tr>
 					<td>3</td>
 					<td>Task 3</td>
-					<td></td>
-					<td></td>
+					<td>
+						<p>Registration Form Using GET and POST Methods</p>
+						<p>Student Marks Analysis</p>
+					</td>
+					<td>
+						Data Transfer using PHP
+						<ul>
+							<li>Table Tags</li>
+							<li>Form Tag</li>
+							<li>Input Tags</li>
+							<li>GET and POST methods in a Form</li>
+							<li>Accept Data using PHP in other page</li>
+						</ul>
+					</td>
 					<td><a href="Task3.php">Task 3</a></td>
+				</tr>
+				<tr>
+					<td>4</td>
+					<td>Task 4</td>
+					<td>Work on Different Templates and Integrating them with PHP</td>
+					<td>Programming Skills</td>
+					<td><a href="Task4.php">Task 4</a></td>
 				</tr>
 			</tbody>
 		</table>
