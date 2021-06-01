@@ -78,6 +78,20 @@
 					<td>Programming Skills</td>
 					<td><a href="Task4.php">Task 4</a></td>
 				</tr>
+				<tr>
+					<td>5</td>
+					<td>Task 5</td>
+					<td></td>
+					<td></td>
+					<td><a href="Task5.php">Task 5</a></td>
+				</tr>
+				<tr>
+					<td>6</td>
+					<td>Task 6</td>
+					<td></td>
+					<td></td>
+					<td><a href="Task6.php">Task 6</a></td>
+				</tr>
 			</tbody>
 		</table>
 	</body>

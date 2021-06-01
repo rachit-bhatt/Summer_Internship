@@ -1,0 +1,15 @@
+table {
+    text-align: justify;
+}
+caption {
+    font-weight: bolder;
+}
+textarea {
+    width: 100%;
+}
+select {
+    width: 100%;
+}
+input[type=date] {
+    width: 100%;
+}
