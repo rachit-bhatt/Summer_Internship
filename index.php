@@ -92,6 +92,27 @@
 					<td></td>
 					<td><a href="Task6.php">Task 6</a></td>
 				</tr>
+				<tr>
+					<td>7</td>
+					<td>Task 7</td>
+					<td></td>
+					<td></td>
+					<td><a href="Task7.php">Task 7</a></td>
+				</tr>
+				<tr>
+					<td>8</td>
+					<td>Task 8</td>
+					<td></td>
+					<td></td>
+					<td><a href="Task8.php">Task 8</a></td>
+				</tr>
+				<tr>
+					<td>9</td>
+					<td>Task 9</td>
+					<td></td>
+					<td></td>
+					<td><a href="Task9.php">Task 9</a></td>
+				</tr>
 			</tbody>
 		</table>
 	</body>
