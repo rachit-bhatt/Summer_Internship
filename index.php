@@ -113,6 +113,13 @@
 					<td></td>
 					<td><a href="Task9.php">Task 9</a></td>
 				</tr>
+				<tr>
+					<td>10</td>
+					<td>Task 10</td>
+					<td></td>
+					<td></td>
+					<td><a href="Task10.php">Task 10</a></td>
+				</tr>
 			</tbody>
 		</table>
 	</body>
