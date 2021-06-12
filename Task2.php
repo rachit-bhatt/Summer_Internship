@@ -138,7 +138,7 @@
                     echo "Please Select between 1-3.";
             }
             echo "</li></ul>";
-            //break;
+            break;
 
         case 2:
             echo "</li><li>";
@@ -158,7 +158,7 @@
                 echo "$no is an <strong>Even</strong> number.";
             }
 
-            //break;
+            break;
 
         case 3:
             echo "</li><li>";
@@ -188,7 +188,7 @@
                 }
             }
             echo "</li><li>";
-            //break;
+            break;
 
         case 4:
             echo "</li><li>";

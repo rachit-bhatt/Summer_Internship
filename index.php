@@ -5,7 +5,7 @@
 	</head>
 	<body class="dark-theme">
 		<table class="table">
-			<caption>Tasks</caption>
+			<caption>Index</caption>
 			<thead>
 				<tr>
 					<th>#</th>
@@ -81,45 +81,76 @@
 				<tr>
 					<td>5</td>
 					<td>Task 5</td>
-					<td></td>
-					<td></td>
+					<td>Array:
+						<ul>
+							<li>Numerical Array</li>
+							<li>Associative array</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>Array in PHP</li>
+							<li>Debugging Using:
+								<ul>
+									<li>array_r()</li>
+									<li>array_dump()</li>
+								</ul>
+							</li>
+						</ul>
+					</td>
 					<td><a href="Task5.php">Task 5</a></td>
 				</tr>
 				<tr>
 					<td>6</td>
 					<td>Task 6</td>
-					<td></td>
-					<td></td>
+					<td>Create a form and insert data into DB:
+						<ul>
+							<li>With Theme</li>
+							<li>Without a theme</li>
+						</ul>
+					</td>
+					<td>How to create Database using phpMyadmin</td>
 					<td><a href="Task6.php">Task 6</a></td>
 				</tr>
 				<tr>
 					<td>7</td>
 					<td>Task 7</td>
-					<td></td>
-					<td></td>
+					<td>Apply display, delete, and update queries in a theme based website.</td>
+					<td>CRUD Operations using PHP</td>
 					<td><a href="Task7.php">Task 7</a></td>
 				</tr>
 				<tr>
 					<td>8</td>
 					<td>Task 8</td>
-					<td></td>
-					<td></td>
+					<td>
+						<ul>
+							<li>Apply update/edit queries on the student table.</li>
+							<li>Create a mini website</li>
+						</ul>
+					</td>
+					<td>
+						<ul>
+							<li>CRUD Operations using PHP</li>
+							<li>Dealing with SQL files</li>
+						</ul>
+					</td>
 					<td><a href="Task8.php">Task 8</a></td>
 				</tr>
 				<tr>
 					<td>9</td>
 					<td>Task 9</td>
-					<td></td>
-					<td></td>
+					<td>To Understand and implement the basics of WordPress.</td>
+					<td>Basics of WordPress (wordpress.org)</td>
 					<td><a href="Task9.php">Task 9</a></td>
 				</tr>
 				<tr>
 					<td>10</td>
 					<td>Task 10</td>
-					<td></td>
-					<td></td>
+					<td>To Understand and implement plugins in Wordpress website pages.</td>
+					<td>Various WordPress Plugins</td>
 					<td><a href="Task10.php">Task 10</a></td>
 				</tr>
 			</tbody>
 		</table>
 	</body>
+</html>

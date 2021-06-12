@@ -78,9 +78,9 @@
                             echo $i . "</td><td>";
                             echo $row[1] . "</td><td>";
                             echo $row[2] . "</td><td>";
-                            echo $row[3];
-                            echo "<td><a href = './Day 7/Edit.php?id=$row[0]'>Edit</a></td>";
-                            echo "<td><a href = './Day 7/Delete.php?id=$row[0]'>Delete</a></td>";
+                            echo $row[3] . "</td><td>";
+                            echo "<a href = './Day 7/Edit.php?id=$row[0]'>Edit</a></td>";
+                            echo "<td><a href = './Day 7/Delete.php?id=$row[0]'>Delete</a>";
                         ?>
                     </td>
                 </tr>

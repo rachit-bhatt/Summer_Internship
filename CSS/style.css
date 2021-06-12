@@ -99,6 +99,11 @@ ul {
 }
 .table tbody tr td ul {
 	list-style: square;
+	text-align: justify;
+	vertical-align: middle;
+}
+.table tbody tr td ul li ul {
+	list-style: binary;
 }
 .labeledCheckbox
 {
